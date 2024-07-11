@@ -7,4 +7,3 @@
 
 2. supportfile.py - The Machine learning code for Image recognition and face identification
 
-3. Front-End (HTML) - The code for frontend
